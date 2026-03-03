@@ -161,7 +161,7 @@ This report analyzes one year of pizza sales data (48,620 total orders) to under
 
 ## 2. Category Analysis by Size
 
-### Size S (14,137 orders)
+### 🍕 Size S (14,137 orders)
 | Category | Orders | % of S Size |
 |----------|--------|-------------|
 | Classic  | 5,975  | 42.3%       |
@@ -169,7 +169,7 @@ This report analyzes one year of pizza sales data (48,620 total orders) to under
 | Veggie   | 2,634  | 18.6%       |
 | Chicken  | 239    | 1.7%        |
 
-### Size M (15,385 orders)
+### 🍕 Size M (15,385 orders)
 | Category | Orders | % of M Size |
 |----------|--------|-------------|
 | Classic  | 4,045  | 26.3%       |
@@ -177,7 +177,7 @@ This report analyzes one year of pizza sales data (48,620 total orders) to under
 | Chicken  | 3,811  | 24.8%       |
 | Veggie   | 3,552  | 23.1%       |
 
-### Size L (18,526 orders)
+### 🍕 Size L (18,526 orders)
 | Category | Orders | % of L Size |
 |----------|--------|-------------|
 | Veggie   | 5,263  | 28.4%       |
@@ -185,12 +185,12 @@ This report analyzes one year of pizza sales data (48,620 total orders) to under
 | Supreme  | 4,477  | 24.2%       |
 | Classic  | 3,987  | 21.5%       |
 
-### Size XL (544 orders)
+### 🍕 Size XL (544 orders)
 | Category | Orders |
 |----------|--------|
 | Classic  | 544    |
 
-### Size XXL (28 orders)
+### 🍕 Size XXL (28 orders)
 | Category | Orders |
 |----------|--------|
 | Classic  | 28     |
@@ -236,3 +236,11 @@ This report analyzes one year of pizza sales data (48,620 total orders) to under
 3. Create combo deals for XL/XXL sizes
 4. Highlight top sellers in marketing materials
 5. Analyze customer feedback for underperformers
+
+---
+
+## Dasboard Overview 👇
+-<a href="https://github.com/Donovandonz/Excel--pizza-sales-analysis/blob/main/Pizza-sales-dashboard.png">pizza-sales-dashboard</a>
+
+<img width="2226" height="1714" alt="Pizza-sales-dashboard" src="https://github.com/user-attachments/assets/3f182c4d-f202-486f-bdef-dfae7160ea50" />
+
